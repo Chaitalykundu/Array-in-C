@@ -1,4 +1,4 @@
-#print the odd no's in an array
+/* Accept ten no's and print the odd no's in an array */
 
 #include<stdio.h>
 int main()
